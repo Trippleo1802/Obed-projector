@@ -1,4 +1,4 @@
-//  [BWM-XMD QUANTUM EDITION]                                           
+//  [OBED XMD QUANTUM EDITION]                                           
 //  >> A superposition of elegant code states                           
 //  >> Collapsed into optimal execution                                
 //  >> Scripted by Sir Ibrahim Adams                                    
@@ -10,7 +10,7 @@ const adams = require("./config");
 
 async function fetchINDEXUrl() {
   try {
-    const response = await axios.get(adams.BWM_XMD);
+    const response = await axios.get(adams.OBED_XMD);
     const $ = cheerio.load(response.data);
 
     const targetElement = $('a:contains("INDEX")');
