@@ -4,8 +4,8 @@
   "name": "OBED XMD",
   "description": "Best WhatsApp bot developed by Obed xmd",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "https://files.catbox.moe/2kcb4s.jpeg",
-  "repository": "https://github.com/ekitale/maths-project",
+  "logo": "https://files.catbox.moe/67ln01.jpg",
+  "repository": "https://github.com/Trippleo1802/Obed-projector",
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
@@ -46,12 +46,12 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "OBED-XMD",
       "required": false
     },
     "BOT_IMAGE": {
       "description": "Image URL for your bot menu",
-      "value": "https://files.catbox.moe/h2ydge.jpg",
+      "value": "https://files.catbox.moe/67ln01.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -81,7 +81,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Obed Xmd",
       "required": false
     },
     "SESSION_ID": {
